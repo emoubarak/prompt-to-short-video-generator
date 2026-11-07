@@ -11,13 +11,13 @@ To set up the project on your local machine, follow these steps:
 1. Clone the repository to your local machine:
 
    ```sh
-   git clone https://github.com/moubarakelmahdi1/Prompt-to-Short-Video.git
+   git clone https://github.com/emoubarak/prompt-to-short-video-generator.git
    ```
 
 2. Navigate to the cloned repository directory:
 
    ```sh
-   cd video-generator
+   cd prompt-to-short-video-generator
    ```
 
 3. Install the required dependencies:
